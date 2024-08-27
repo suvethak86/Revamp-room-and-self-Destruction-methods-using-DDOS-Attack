@@ -1,0 +1,19 @@
+www.tutorialspoint.com/vb.net/
+howtostartprogramming.com/vb-net/
+vb.net-informations.com/
+www.pickatutorial.com/tutorials/vbdotnet_1.htm
+www.learnvisualstudio.net/
+www.freetutes.com/learn-vb-net/
+www.homeandlearn.co.uk/NET/vbNet.html
+https://www.hscripts.com/tutorials/vbnet/
+www.asp.net/get-started
+www.academictutorials.com/vb.net/
+
+books
+
+Beginning VB.NET (2nd Edition) - Author: Richard Blair et all
+Programming VB.NET  -  Authors: Gary Cornell, Jonathan Morrison
+Professional VB.NET  - Authors: Bill Evjen et all
+Microsoft Visual Basic .NET Step by Step - Author: Michael Halvorson
+visual Basic .NET How to Program  - Authors: Deitel & Deitel
+Murach's Visual Basic 2005 -  Author: Anne Boehm
